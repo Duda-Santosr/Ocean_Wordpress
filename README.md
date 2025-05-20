@@ -1,5 +1,8 @@
-# Ocean_Wordpress
+# Ocean_Wordpress 💻🌊👙
 - Páginas de um site de bíkinis feitas pelo Wordpress.
+
+## Ocean
+- O site 'Ocean' foi desenvolvido com o tema de uma loja de biquínis moderna e sofisticada. Seu objetivo é proporcionar uma experiência de compra agradável e intuitiva, promovendo modelos de biquínis que valorizam o corpo feminino com conforto e estilo. O público-alvo são mulheres jovens e adultas, com interesse em moda praia, sustentabilidade e tendências atuais do universo fashion.
 
 
 # Print das Páginas
